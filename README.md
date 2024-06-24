@@ -36,7 +36,7 @@ $ npm install
 
 ```bash
 # development
-$ yarn run start
+$ npm run start
 
 # build docker image and start containers using Docker Compose
 sudo docker-compose up –build
